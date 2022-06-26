@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Magnet515
+- 👀 I’m interested in Python
+- 💞️ I’m looking to collaborate on programming
+- 📫 How to reach me: @master_protocol or leonid.pow@gmail.com
